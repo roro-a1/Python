@@ -1,2 +1,2 @@
-# SQL
-All the practice through Leetcode or any other problems will be pushed here
+# Python
+Everything that I do, be it lecture notes, practice problems, python projects, or hackathon codes will be pushed here
