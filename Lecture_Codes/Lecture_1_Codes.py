@@ -1,14 +1,14 @@
 """
 print("Hello world!")
-print("Rohan is gonna be a Google data engineer.")
+print("Roro is gonna be a Google data engineer.")
 """
 
 """
-print("Hello world!", "Rohan is gonna be a Google data engineer.")
+print("Hello world!", "Roro is gonna be a Google data engineer.")
 """
 
 '''
-name = "Rohan"
+name = "Roro"
 job = "Google data engineer"
 age = 28
 print(name, "is gonna be", job, "by age", age)
